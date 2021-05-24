@@ -1,0 +1,40 @@
+h3 {
+  color: #f50707;
+  text-align: center;
+  padding-top: 10px;
+  letter-spacing: 1.2px;
+  font-size: 30px;
+  font-weight: 500;
+}
+
+p {
+  font-size: 30px;
+}
+
+.block {
+  position: absolute;
+  text-align: center;
+  width: 300px;
+  height: 130px;
+  top: 110px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+button {
+  outline: none;
+  background: transparent;
+  border: 1px solid #ff008c;
+  padding: 5px 10px;
+  margin: 2px 2px;
+  border-radius: 7px;
+  color: #f1070f;
+  cursor: pointer;
+}
+
+.buttons {
+  display: flex;
+  width: 150px;
+  margin: 0 auto;
+  margin-top: 5px;
+}
